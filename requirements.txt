@@ -1,0 +1,46 @@
+# FastAPI Backend
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Environment
+python-dotenv==1.0.1
+
+# LLM Frameworks
+langchain
+langchain-core
+langgraph
+langchain-community
+langchain-mistralai
+
+
+# Data Validation
+pydantic==2.9.2
+
+# Async Support
+httpx==0.27.2
+aiohttp==3.10.10
+
+# Web Scraping
+beautifulsoup4==4.12.3
+lxml==5.3.0
+newspaper3k==0.2.8
+readability-lxml==0.8.1
+
+# Search APIs
+tavily-python==0.5.0
+
+# NLP
+nltk==3.9.1
+spacy==3.8.2
+textstat==0.7.4
+
+# Vector Database
+faiss-cpu==1.9.0
+
+# Embeddings
+tiktoken==0.8.0
+
+streamlit==1.25.0
+
+
+
